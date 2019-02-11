@@ -1,0 +1,16 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r add packages}
+# usethis::use_package("purrr")
+# 
+#   purrr::map(c("gmailr", "googlesheets", "magrittr", "openxlsx", "purrr", "shiny", "stringr", "webshot"),usethis::use_package)
+```
+
+```{r datafiles}
+# usethis::use_data(templates_data)
+# usethis::use_data(templates, overwrite = T)
+```
+
